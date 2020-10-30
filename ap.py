@@ -26,4 +26,4 @@ for d in data:
 
 print(shalat)
 
-print(shalat['ashar'])
+print(shalat['subuh'])
